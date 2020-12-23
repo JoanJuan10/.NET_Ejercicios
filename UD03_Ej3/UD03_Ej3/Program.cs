@@ -61,10 +61,6 @@ namespace UD03_Ej3
 
             Console.WriteLine("X + Y + N + M = {0}", x + y + n + m);
             Console.WriteLine("X * Y * N * M = {0}", x * y * n * m);
-
-
-
-
         }
     }
 }
